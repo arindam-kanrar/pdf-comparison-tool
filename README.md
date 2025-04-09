@@ -26,12 +26,12 @@ A Streamlit web app to compare two PDF files and highlight the textual differenc
 
 ### 1. Clone the repo
 
+To RUN :
+1. pip install -r requirements.txt
+2. streamlit run app.py
+
+
 ```bash
 git clone https://github.com/arindam-kanrar/pdf-comparison-tool.git
 cd pdf-comparison-tool
 
-_______
-
-To RUN :
-1. pip install -r requirements.txt
-2. streamlit run app.py
